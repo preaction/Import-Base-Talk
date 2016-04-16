@@ -3,9 +3,6 @@
 
 <http://preaction.github.io/Import-Base-Talk/>
 
-A short introduction to Rex, a Perl server automation tool, and
-a gallery of Rex's features.
-
 by Doug Bell (preaction)  
 <a href="http://twitter.com/preaction"><i class="fa fa-twitter"></i> @preaction</a>  
 <a href="http://github.com/preaction"><i class="fa fa-github"></i> preaction</a>  
