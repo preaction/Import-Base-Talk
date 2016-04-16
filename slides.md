@@ -110,6 +110,8 @@ use Log::Any;
 
 ------
 
+![](images/eggy-mess.gif)
+
 # There Has To Be A Better Way
 
 ------
